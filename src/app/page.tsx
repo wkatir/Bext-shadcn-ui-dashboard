@@ -37,7 +37,7 @@ export default function Home() {
         </div>
       </div>
       <AnalyticsChart></AnalyticsChart>
-      <PostsTable title="Latest Posts" limit={5}/>
+      <PostsTable title="Latest Posts" limit={5} />
     </>
   );
 }
